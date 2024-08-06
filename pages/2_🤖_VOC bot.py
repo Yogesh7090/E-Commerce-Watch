@@ -102,8 +102,7 @@ for message in st.session_state.messages: # Display the prior chat messages
 
 memory = ConversationBufferMemory()
 # openai.api_key = os.getenv('OPENAI_API_KEY')
-#API_KEY = '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'
-openai.api_key='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'
+openai.api_key='use your openai key'
 
 # API_KEY = os.getenv('OPENAI_API_KEY')
 
