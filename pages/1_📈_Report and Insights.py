@@ -13,7 +13,7 @@ from logo import add_logo
  
 # API_KEY = os.getenv('OPENAI_API_KEY')
 # Set your OpenAI API keystre
-openai.api_key="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"
+openai.api_key="use your openai key"
  
 # Streamlit configuration
 st.set_page_config(layout="wide")
